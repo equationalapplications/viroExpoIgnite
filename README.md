@@ -1,6 +1,6 @@
 # Welcome to your new ignited app!
 
-Made with Ignite v7.10.8
+Made with Ignite v7.10.8 with Expo SDK v43.0.0
 
 ## The latest and greatest boilerplate for Infinite Red opinions
 
